@@ -5,6 +5,8 @@ description: Reading tips and study questions for a lecture on organizational st
 file: /courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/7812ac762c7480f45fa195df535b2279_questions2.pdf
 file_size: 34705
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

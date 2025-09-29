@@ -5,6 +5,8 @@ description: Reading tips and study questions for a lecture on structuring work 
 file: /courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/4d943ad68ce82f1daec7126cd849d4cc_questions4.pdf
 file_size: 32757
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section presents the list of case studies and readings given to
   the students at the beginning of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -133,7 +135,7 @@ Reasons to collaborate, risks, levels and stages of collaboration or "partnershi
 
 "Finding Black Parents: One Church, One Child." Cambridge, MA: Harvard University, Kennedy School of Government Case Program. Case: C16-88-856.0, 1988.
 
-Briggs, Xavier de Souza. "Perfect Fit or Shotgun Marriage?: Understanding the Power and Pitfalls in Partnerships." The Community Problem-Solving Project @ MIT, June 2003, selected pages. ({{% resource_link "172f473e-4f44-419f-a5d2-7850b4034b34" "PDF" %}})
+Briggs, Xavier de Souza. "Perfect Fit or Shotgun Marriage?: Understanding the Power and Pitfalls in Partnerships." The Community Problem-Solving Project @ MIT, June 2003, selected pages. ([PDF](http://web.mit.edu/cpsproject/images/PerfectFit.pdf))
 
 
 {{< tdclose >}}
@@ -219,7 +221,7 @@ Discussion A: Vision
 Recognizing implementation challenges and opportunities, visioning backward and forward, drawing on multiple frameworks
 {{< tdclose >}}
 {{< tdopen >}}
-"{{% resource_link "306eda6f-3f34-43c1-b925-cec356710066" "Mayor Purcell and the Faith Community Confront Nashville's Housing Needs" %}}." Cambridge, MA: Harvard University, Kennedy School of Government. Draft, September 2003.
+"[Mayor Purcell and the Faith Community Confront Nashville's Housing Needs](http://www.innovations.harvard.edu/mayor-purcell-and-faith-community-confront-nashvilles-housing-needs)." Cambridge, MA: Harvard University, Kennedy School of Government. Draft, September 2003.
 {{< tdclose >}}
 
 {{< trclose >}}

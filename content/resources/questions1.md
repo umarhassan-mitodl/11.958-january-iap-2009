@@ -5,6 +5,8 @@ description: Reading tips and study questions for a lecture on creating public v
 file: /courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/8bd9fdc2d8063326462bad1fba0d281d_questions1.pdf
 file_size: 45525
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
