@@ -5,8 +5,6 @@ description: 'Lecture presentation on thinking like an implementer, creating val
 file: /courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/88777fd66d6ecb963a04d9b9fc9973dc_slides1.pdf
 file_size: 59430
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

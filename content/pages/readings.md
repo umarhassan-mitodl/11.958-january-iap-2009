@@ -2,8 +2,6 @@
 content_type: page
 description: This section presents the list of case studies and readings given to
   the students at the beginning of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

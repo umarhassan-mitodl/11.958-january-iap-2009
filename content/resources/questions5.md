@@ -5,8 +5,6 @@ description: Reading tips and study questions for a lecture on strategic vision 
 file: /courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/30ec9cdddda03bdc0a26f40411308c1d_questions5.pdf
 file_size: 30451
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Lecture presentation on collaborative strategy and performance mana
 file: /courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/7bd5e7cf33ceb9774dee7bdf528d5c3b_slides3.pdf
 file_size: 56707
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: Lecture presentation on identifying implementation challenges and g
 file: /courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/3b2455d9ed62791c73c398d0ac2b2bfb_slides5.pdf
 file_size: 51194
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
